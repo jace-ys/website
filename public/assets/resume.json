@@ -1,0 +1,396 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"items": [
+			{
+				"awarder": "IC Hack 2019",
+				"date": "2019-02-01",
+				"id": "57d8b3e3-0bac-484a-a72d-2cc710feaf77",
+				"summary": "- Worked in a team of 5 to develop [Emotivote](https://devpost.com/software/emotivote) over a weekend.\n- Clinched the 1st prize amongst 9 teams, under the Best Collaboration-Based Hack category.",
+				"title": "1st Prize (Category)"
+			},
+			{
+				"awarder": "HackUPC 2018",
+				"date": "2018-10-21",
+				"id": "89c0171a-eae9-403e-9f4c-a757fb535c2b",
+				"summary": "- Worked in a team of 5 to develop [Huddle](https://devpost.com/software/huddle-yafg1p) over a weekend.\n- Clinched the overall 1st prize amongst 150 teams.",
+				"title": "1st Prize (Overall)"
+			},
+			{
+				"awarder": "IC HealthHack 2018",
+				"date": "2018-03-01",
+				"id": "1adac8cc-16b8-4ed3-ae61-e4a28788b3ef",
+				"summary": "- Worked in a team of 4 to develop [MyoArcade](https://devpost.com/software/emotivote) over a weekend.\n- Clinched the 1st prize amongst 5 teams, under the Rehabilitation & Disease Management category.",
+				"title": "1st Prize (Category)"
+			}
+		],
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "M.Eng.",
+				"endDate": "2021-06-30",
+				"field": "Biomedical Engineering with a Year in Industry",
+				"gpa": "First-Class Honours",
+				"id": "c42e2a5a-3f0d-497e-838b-ac2019dcf045",
+				"institution": "Imperial College London",
+				"startDate": "2016-10-01",
+				"summary": ""
+			},
+			{
+				"degree": "GCSE A Levels",
+				"endDate": "2013-12-31",
+				"field": "Physics, Chemistry, Math, Economics",
+				"gpa": "4A",
+				"id": "278490a2-c327-4e83-8be8-adf913a9b36c",
+				"institution": "Hwa Chong Institution (Singapore)",
+				"startDate": "2008-01-01",
+				"summary": ""
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"items": [
+			{
+				"fluency": "Native Tongue",
+				"id": "78d8cf32-84c7-431d-969b-fdf277968026",
+				"name": "English"
+			},
+			{
+				"fluency": "Fluent",
+				"id": "cb895aa9-c485-4bf3-a9e3-08e8f219451a",
+				"name": "Mandarin"
+			}
+		],
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#000025",
+			"text": "#212121"
+		},
+		"font": "Open Sans",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"certifications",
+					"awards",
+					"languages",
+					"hobbies"
+				],
+				[
+					"education",
+					"work",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "pikachu"
+	},
+	"objective": {
+		"body": "Passionate about developer tooling, infrastructure automation, distributed systems, and cloud-native technologies.",
+		"heading": "Headline",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1594483672645-895b77326094?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=400",
+	"profile": {
+		"address": {
+			"city": "London, United Kingdom",
+			"line1": "",
+			"line2": "",
+			"pincode": ""
+		},
+		"email": "jaceys.tan@gmail.com",
+		"firstName": "Jace",
+		"heading": "Profile",
+		"lastName": "Tan",
+		"phone": "+44 7542 808 332",
+		"photograph": "",
+		"subtitle": "Software Engineer",
+		"website": "https://hello.jaceystan.com"
+	},
+	"projects": {
+		"heading": "Personal Projects",
+		"items": [
+			{
+				"date": "2020-08-01",
+				"endDate": "2020-08-31",
+				"id": "c768dcca-90f5-4242-a608-6759b4f667fb",
+				"link": "https://github.com/jace-ys/sentry-operator",
+				"summary": "- A Kubernetes operator for Sentry, that allows for the provisioning of Sentry resources as Kubernetes custom resources.\n- Built using Go and Kubebuilder.",
+				"title": "Sentry Operator"
+			},
+			{
+				"date": "2020-12-01",
+				"endDate": "2020-12-31",
+				"id": "3388c388-55de-4581-b9b5-f7ccbd8da902",
+				"link": "https://github.com/jace-ys/vault-init",
+				"summary": "- A small utility for automating the initialisation and unsealing of HashiCorp Vault without public cloud infrastructure.\n- Built using Go.",
+				"title": "Vault Init"
+			},
+			{
+				"date": "2020-03-01",
+				"endDate": "2020-03-31",
+				"id": "b6b5a913-c67e-4d26-b5bf-3de6866feaf6",
+				"link": "https://github.com/jace-ys/super-smash-heroes",
+				"summary": "- A modern web application inspired by Super Smash Bros, mainly for learning purposes.\n- Developed as a collection of microservices built using Go, gRPC, Vue.js, PostgreSQL and Docker.",
+				"title": "Super Smash Heroes"
+			}
+		],
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "9891dfd5-fc9a-40de-a279-dc10cb668ddf",
+				"isVisible": true,
+				"level": " ",
+				"name": "Go"
+			},
+			{
+				"id": "9defbeb1-56ea-4880-9171-31f609e9ab70",
+				"level": " ",
+				"name": "Rust"
+			},
+			{
+				"id": "093e6593-0dff-4847-b1b3-9bebeedbaae1",
+				"level": " ",
+				"name": "Node.js"
+			},
+			{
+				"id": "689c0557-c257-481c-bea1-89e39c8b40cf",
+				"level": " ",
+				"name": "Python"
+			},
+			{
+				"id": "8fb0e3b0-e1d5-47be-9bee-a234090e8048",
+				"level": " ",
+				"name": "Bash"
+			},
+			{
+				"id": "246eb5e1-f2eb-4304-aa16-67e409bdec01",
+				"level": " ",
+				"name": "SQL"
+			},
+			{
+				"id": "abd67c58-4564-49fd-916c-78133e7c751f",
+				"level": " ",
+				"name": "Linux"
+			},
+			{
+				"id": "62f362e7-9ff5-4d29-9e31-b0e4e737e184",
+				"level": " ",
+				"name": "Docker"
+			},
+			{
+				"id": "fc841728-ca8e-4f36-ab04-f2d85cd7b4ca",
+				"level": " ",
+				"name": "Kubernetes"
+			},
+			{
+				"id": "88358611-a59f-448e-b7a2-86ec3b87a2df",
+				"level": " ",
+				"name": "Terraform"
+			},
+			{
+				"id": "d036bc9e-3800-42ab-84e1-d7990ab0d6d9",
+				"level": " ",
+				"name": "Prometheus"
+			},
+			{
+				"id": "41cf2605-036d-449d-9345-6477e06a458d",
+				"level": " ",
+				"name": "Grafana"
+			},
+			{
+				"id": "00cc05bf-cccb-44ff-8f37-0815817ec704",
+				"level": " ",
+				"name": "React.js"
+			},
+			{
+				"id": "aa2fe867-b9c7-4ff6-b11b-607c7bb8b823",
+				"level": " ",
+				"name": "gRPC"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "1dd46fdd-b3a3-4786-89ce-2e77c0823aba",
+				"network": "LinkedIn",
+				"url": "https://linkedin.com/in/jaceystan",
+				"username": "linkedin.com/in/jaceystan"
+			},
+			{
+				"id": "62754126-0102-491d-bf91-a824bef46444",
+				"network": "GitHub",
+				"url": "https://github.com/jace-ys",
+				"username": "github.com/jace-ys"
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "Monzo Bank",
+				"endDate": "",
+				"id": "992d0c90-9e68-4f68-86c3-2017af449051",
+				"position": "Backend Engineer, Security",
+				"startDate": "2021-09-06",
+				"summary": "- Led the rollout of a rate limiting system to defend the banking platform against internal threats, from scoping to delivery.\n\n- Contributed to the greenfield development of an internal system to support script-like workloads with millions of RPCs, using technologies like Google Cloud Storage, BigQuery and Kafka.\n\n- Provided other engineering teams with security consultation and advice on best practices for developing secure systems.\n\n- Part of the on-call rota, involved in leading and responding to various security incidents such as login enumeration, data leakage, critical vulnerabilities, etc.",
+				"website": "https://monzo.com/"
+			},
+			{
+				"company": "GoCardless",
+				"endDate": "2020-07-31",
+				"id": "d7c64937-0cb9-41b1-a3a6-0679c882fe63",
+				"position": "Software Engineer Intern, Developer Experience",
+				"startDate": "2019-07-23",
+				"summary": "- Co-led the development of a Kubernetes-native Continuous Deployment system for the 100-strong engineering team using TektonCD, reducing average time from merge to deploy from 30 to 10 minutes.\n\n- Contributed to the development of a self-serve secrets management solution by integrating HashiCorp Vault with our Kubernetes infrastructure.\n\n- Helped establish and standardise engineering best practices by developing automation to bootstrap new repositories, thereby also drastically reducing common engineering toil.\n\n- Worked with product teams to identify and address gaps in the internationalisation service, which led to an increase in turnaround time of localising content and overall developer productivity.",
+				"website": "https://gocardless.com/"
+			},
+			{
+				"company": "Kickstart London",
+				"endDate": "2019-06-30",
+				"id": "0825124b-304a-419a-b191-d03a52558c54",
+				"isVisible": false,
+				"position": "Resident Entrepreneur",
+				"startDate": "2018-11-01",
+				"summary": "- Amongst the 40 selected students, out of more than 1000 applications, that went on to form co-founding teams and develop a startup over a 10-week programme.\n\n- Co-founded a SaaS startup that offered a virtual assistant software for meetings, where I spearheaded the product vision and development.",
+				"website": "https://www.kickstartglobal.com/"
+			},
+			{
+				"company": "Wooden Spoon Charity",
+				"endDate": "2018-09-30",
+				"id": "eb449e37-3089-4b8d-979f-d8c834d03cec",
+				"isVisible": true,
+				"position": "Software Developer, Intern",
+				"startDate": "2018-07-01",
+				"summary": "- Created a web-based platform for assistive technology that leveraged the Internet of Things, where I played a key role in devising the overall software architecture.\n\n- Actively involved in both frontend and backend development, using Node.js, EJS and MongoDB.\n\n- Learnt industry best practices in collaborative software development using GitHub.",
+				"website": ""
+			},
+			{
+				"company": "Reach plc",
+				"endDate": "2018-08-31",
+				"id": "d69aa96e-5f74-457c-be75-d7d238d22d94",
+				"isVisible": false,
+				"position": "Software Engineer, Intern",
+				"startDate": "2018-08-01",
+				"summary": "- Developed a full-stack, web-based, internal CMS for news editors to write and manage their articles.\n\n- Introduced to industry tools for deploying production-ready software such as Docker and AWS (CloudFormation, ECS, S3).",
+				"website": ""
+			}
+		],
+		"visible": true
+	}
+}
