@@ -1,4 +1,4 @@
-@import url("https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
 @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat:wght@700&display=swap");
 
 html,
@@ -35,6 +35,7 @@ h4 {
 }
 
 @media only screen and (max-width: 600px) {
+
   h1,
   h2,
   h3,
@@ -50,6 +51,7 @@ h6 {
 }
 
 @media only screen and (max-width: 600px) {
+
   h5,
   h6 {
     margin-top: 3.6rem;
@@ -88,6 +90,7 @@ h6 {
   0% {
     -webkit-transform: scale(0);
   }
+
   100% {
     -webkit-transform: scale(1);
     opacity: 0;
@@ -99,6 +102,7 @@ h6 {
     -webkit-transform: scale(0);
     transform: scale(0);
   }
+
   100% {
     -webkit-transform: scale(1);
     transform: scale(1);
@@ -140,22 +144,16 @@ h6 {
   width: 100%;
   height: 100%;
   opacity: 0.8;
-  background: -moz-linear-gradient(
-    top,
-    transparent 0%,
-    rgba(0, 0, 0, 0.8) 100%
-  );
-  background: -webkit-linear-gradient(
-    top,
-    transparent 0%,
-    rgba(0, 0, 0, 0.8) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    transparent 0%,
-    rgba(0, 0, 0, 0.8) 100%
-  );
-  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#cc000000', GradientType=0);
+  background: -moz-linear-gradient(top,
+      transparent 0%,
+      rgba(0, 0, 0, 0.8) 100%);
+  background: -webkit-linear-gradient(top,
+      transparent 0%,
+      rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom,
+      transparent 0%,
+      rgba(0, 0, 0, 0.8) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#cc000000', GradientType=0);
 }
 
 .home .overlay {
@@ -248,6 +246,7 @@ html.ss-loaded .home-content-main {
     -ms-transform: translate3d(0, -150%, 0);
     transform: translate3d(0, -150%, 0);
   }
+
   to {
     opacity: 1;
     -webkit-transform: translate3d(0, 0, 0);
@@ -263,6 +262,7 @@ html.ss-loaded .home-content-main {
     -ms-transform: translate3d(0, -150%, 0);
     transform: translate3d(0, -150%, 0);
   }
+
   to {
     opacity: 1;
     -webkit-transform: translate3d(0, 0, 0);
@@ -275,6 +275,7 @@ html.ss-loaded .home-content-main {
   .home-content h1 {
     font-size: 5.2rem;
   }
+
   .home-content-main {
     max-width: 1000px;
   }
@@ -284,9 +285,11 @@ html.ss-loaded .home-content-main {
   .home-content h1 {
     font-size: 5rem;
   }
+
   .home-content br {
     display: none;
   }
+
   .home-content-main {
     max-width: 800px;
   }
@@ -296,6 +299,7 @@ html.ss-loaded .home-content-main {
   .home-content h1 {
     font-size: 4.8rem;
   }
+
   .home-content-main {
     padding-right: 40px;
     max-width: 680px;
@@ -308,12 +312,15 @@ html.ss-loaded .home-content-main {
     padding-left: 50px;
     margin-left: -10px;
   }
+
   .home-content h3::before {
     width: 40px;
   }
+
   .home-content h1 {
     font-size: 4.4rem;
   }
+
   .home-content-main {
     max-width: 500px;
   }
@@ -323,13 +330,16 @@ html.ss-loaded .home-content-main {
   .home-content {
     padding-bottom: 15rem;
   }
+
   .home-content h1 {
     font-size: 4.2rem;
   }
+
   .home-content-main {
     max-width: 380px;
     padding: 0;
   }
+
   .home-content h2 {
     font-size: 2.5rem;
   }
@@ -339,9 +349,11 @@ html.ss-loaded .home-content-main {
   .home-content h3 {
     font-size: 1.5rem;
   }
+
   .home-content h1 {
     font-size: 3.8rem;
   }
+
   .home-content-main {
     max-width: none;
     width: 85%;
@@ -353,9 +365,11 @@ html.ss-loaded .home-content-main {
   .home-content {
     vertical-align: middle;
   }
+
   .home-content h1 {
     font-size: 3.5rem;
   }
+
   .home-content-main {
     width: auto;
     margin-left: 25px;
@@ -393,7 +407,8 @@ html.ss-loaded .home-content-main {
   padding-left: 0.9rem;
 }
 
-.social li i {
+.social li svg {
+  color: white;
   font-size: 1.7rem;
   line-height: 3rem;
   vertical-align: middle;
@@ -424,13 +439,16 @@ html.ss-loaded .home-content-main {
   .social {
     text-align: center;
   }
+
   .social li {
     margin-right: 1.8rem;
   }
+
   .social li span,
   .social li::after {
     display: none;
   }
+
   .social li i {
     font-size: 2.4rem;
   }
@@ -440,6 +458,7 @@ html.ss-loaded .home-content-main {
   .social li {
     margin-right: 1.2rem;
   }
+
   .social li i {
     font-size: 2.2rem;
   }
